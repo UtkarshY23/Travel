@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Logo from "./logo";
-import Form from "../form";
+import Form from "./form";
 import PackingList from "./PackingList";
 import  Stats  from "./Stats";
 
